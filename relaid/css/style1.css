@@ -1,0 +1,41 @@
+		table,th,td{
+			border-collapse: collapse;
+			padding: 8px;
+		}
+		h1{
+			color: WHiteSmoke;
+			font-family: Courier;
+			font-size: 50px;
+		}
+		table{
+			background-color:#05AACD;
+			color: WhiteSmoke;
+			font-size: 17px;
+		}
+		#res{
+			height: 50px;
+			width: 200px;
+			background-color: red;
+			color:WhiteSmoke;
+			font-size: 20px;
+		}
+		#sub{
+			height: 50px;
+			width: 250px;
+			background-color: green;
+			color:WhiteSmoke;
+			font-size: 20px;
+		}
+		.in{
+			margin: 0px;
+			padding: 0px;
+			width: 400px;
+			height: 30px;
+
+		}
+		.inn{
+			margin: 0px;
+			padding: 0px;
+			width: 400px;
+			height: 80px;
+		}
